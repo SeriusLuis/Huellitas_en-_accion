@@ -1,0 +1,27 @@
+.ContainerP{
+    position: relative;
+    text-align:center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius : 3px;
+    width: 70%;
+    
+}
+
+.Product{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(67, 233, 233, 0.534);
+
+}
+
+h2{
+    color: rgb(4, 117, 12);
+    cursor: pointer;
+}
+.Image{
+    width: 30%;
+    cursor: pointer;
+    margin-bottom: 5%;
+}
